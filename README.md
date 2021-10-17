@@ -19,11 +19,11 @@
 ## T-Tests on Suspension Coils
 * then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
-![Lot 1 T.Test](Write-Up_Resources/lot1_ttest.png)
+![Lot 1 T.Test](Write-Up_Resources/true_lot1_ttest.png)
 
-![Lot 2 T.Test](Write-Up_Resources/lot2_ttest.png)
+![Lot 2 T.Test](Write-Up_Resources/true_lot2_ttest.png)
 
-![Lot 3 T.Test](Write-Up_Resources/lot3_ttest.png)
+![Lot 3 T.Test](Write-Up_Resources/true_lot3_ttest.png)
 
 ## Study Design: MechaCar vs Competition
 * What metric or metrics are you going to test?
