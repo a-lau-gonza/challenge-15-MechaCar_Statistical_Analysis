@@ -42,3 +42,8 @@ t.test(lot3_df$PSI, mu=1500)
 t.test(x = suspension_df$PSI,
        subset = Manufacturing_Lot == 'Lot2',
        mu=1500)
+
+# Figuring it out
+t.test(subset(suspension_df, Manufacturing_Lot=="Lot1")$PSI, mu=1500)
+t.test(subset(suspension_df, Manufacturing_Lot=="Lot2")$PSI, mu=1500)
+t.test(subset(suspension_df, Manufacturing_Lot=="Lot3")$PSI, mu=1500)
